@@ -2,17 +2,17 @@
   <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
 </div>
 
-<h2 align="center">Hi 👋, I'm Aagam Jain</h2>
+<h2 align="center">Hi 👋, I'm Vishu</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+GL01%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a B-Tech CSE Final year student at UIET Kanpur
+- 👨‍💻 I'm a Frontend Web Development student.
 
-- 🔭 I’m currently working on **Intelli Kanban** & focusing on **DSA**
+- 🔭 I’m currently learning by building **React Projects** & focusing on **Strong fundamentals**
 
-- 🌱 I’m currently developing and learning **JavaScript, Node.js, and other full-stack tools.**
+- 🌱 I’m currently developing and learning **JavaScript, React, Node.js, and other frontend tools.**
 
 - ⚡ Fun fact : **My GitHub codes = 40% Me + 30% StackOverflow + 10% Google + 20% ChatGPT** 
 
