@@ -22,12 +22,9 @@
 
 #### Frontend Projects :
 
-* [Youtube-colne](https://youtube-by-vishu.netlify.app/)
-* [Note-maker](https://notes-by-vishu.netlify.app/)
-* [OPENAI modern webpage](https://openai-by-vishu.netlify.app/)
-
-
-<a href="https://github.com/getlost01/getlost01/tree/main/projects"><kbd> <br> Veiw all of my projects <br> </kbd></a>
+* [YOUTUBE CLONE](https://github.com/Vishu-221b/Youtube-Clone)
+* [NOTES APP](https://github.com/Vishu-221b/Note-Maker)
+* [OPENAI MODERN WEBPAGE](https://github.com/Vishu-221b/GPT3_JSM)
 
 ---
 
