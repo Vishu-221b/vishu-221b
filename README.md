@@ -20,28 +20,11 @@
 
 ### ⚙️ My Projects 
 
-#### Full-Stack Projects :
-* [Intelli-Kanban](https://github.com/getlost01/Intelli-Kanban)
-* [Web Tools](https://github.com/getlost01/web-tools-gl01)
-* [Blogging Web APIs](https://github.com/getlost01/Postgre-APIs-App)
-* [Inventory App](https://github.com/getlost01/InventoryAppFrontend)
-* [UIET Connect](https://github.com/getlost01/UietConnect)
-* [Meal Planner](https://github.com/getlost01/meal-planner-API)
-* [Voting Management System](https://github.com/getlost01/VotingManagmentSystem)
-* [ABitShort](https://github.com/getlost01/linkshortner)
-* [File Share App](https://github.com/getlost01/dlink-share)
-
-#### Web Store Extensions 
-
-* [Color Tools and Dropper](https://github.com/getlost01/color-picker-updated)
-* [Site Saver](https://github.com/getlost01/site-saver)
-* [CP Calendar](https://github.com/getlost01/cp-contest-calender)
-
 #### Frontend Projects :
 
-* [Country Search](https://github.com/getlost01/country-search)
-* [Portfolio Site](https://github.com/getlost01/portfolio.github.io)
-* [Quiz App Templates](https://github.com/getlost01/quiz-template)
+* [Youtube-colne](https://youtube-by-vishu.netlify.app/)
+* [Note-maker](https://notes-by-vishu.netlify.app/)
+* [OPENAI modern webpage](https://openai-by-vishu.netlify.app/)
 
 
 <a href="https://github.com/getlost01/getlost01/tree/main/projects"><kbd> <br> Veiw all of my projects <br> </kbd></a>
