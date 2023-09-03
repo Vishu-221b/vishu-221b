@@ -14,8 +14,6 @@
 
 - 🌱 I’m currently developing and learning **JavaScript, React, Node.js, and other frontend tools.**
 
-- ⚡ Fun fact : **My GitHub codes = 40% Me + 30% StackOverflow + 10% Google + 20% ChatGPT** 
-
 ---
 
 ### ⚙️ My Projects 
