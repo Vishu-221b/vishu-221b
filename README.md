@@ -19,7 +19,7 @@
 ### ⚙️ My Projects 
 
 #### Frontend Projects :
-* [My Portfolio](https://heyvishu.netlify.app/)
+* [MY PORTFOLIO](https://heyvishu.netlify.app/)
 * [YOUTUBE CLONE](https://github.com/Vishu-221b/Youtube-Clone)
 * [NOTES APP](https://github.com/Vishu-221b/Note-Maker)
 * [OPENAI MODERN WEBPAGE](https://github.com/Vishu-221b/GPT3_JSM)
@@ -52,17 +52,18 @@
 
 <div id="badges">
     <a href="https://www.linkedin.com/in/vishwajeet-chauhan-558023205/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=creator.gl01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=vishwajeetsinghchauhan63@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://portfolio-de-aagam.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+    <a href="https://heyvishu.netlify.app/">
+        <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
     </a>
-    <a href="https://gl01.gitbook.io/gfg-editorials">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GFG"/>
+    <a href="https://twitter.com/webwithvishu">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
 </div>
+
 
 ---
