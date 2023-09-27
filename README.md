@@ -19,7 +19,7 @@
 ### ⚙️ My Projects 
 
 #### Frontend Projects :
-* [MY PORTFOLIO](https://heyvishu.netlify.app/)
+* [MY PORTFOLIO](https://vishucodes.live/)
 * [YOUTUBE CLONE](https://github.com/Vishu-221b/Youtube-Clone)
 * [NOTES APP](https://github.com/Vishu-221b/Note-Maker)
 * [OPENAI MODERN WEBPAGE](https://github.com/Vishu-221b/GPT3_JSM)
