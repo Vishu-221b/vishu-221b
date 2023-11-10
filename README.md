@@ -8,12 +8,13 @@
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a Frontend Web Development student.
 
-- 🔭 I’m currently learning by building **React Projects** & focusing on **Strong fundamentals**
-
-- 🌱 I’m currently developing and learning **JavaScript, React, Node.js, and other frontend tools.**
-
+- 👨‍💻 I'm a Novice Frontend Developer with a passion for crafting exceptional user experiences.
+- 📚 My expertise extends to Html, Css, JavaScript, React, Figma and various frontend tools.
+- 💼 Successfully participated in web design competitions and freelanced as a WordPress web developer.
+- 🚀 Led the Web App Club, organizing a successful web hackathon for 100+ participants.
+- 💡 I'm eager to learn about clean code, accesibility, user-centric design, and innovative solutions.
+- 🌐 I'm excited about the opportunity to contribute to open-source projects and, in the future, mentor aspiring developers.
 ---
 
 ### ⚙️ My Projects 
