@@ -9,8 +9,8 @@
 ---
 ### 👦 About Me
 
-- 👨‍💻 I'm a Novice Frontend Developer with a passion for crafting exceptional user experiences.
-- 📚 My expertise extends to Html, Css, JavaScript, React, Figma and various frontend tools.
+- 👨‍💻 I'm a Novice Full-Stack Developer with a passion for crafting exceptional user experiences.
+- 📚 My expertise extends to Html, Css, JavaScript, React JS, Redux, Node JS, Express JS, MongodDB Git/Github, Figma and some other tools.
 - 💼 Successfully participated in web design competitions and freelanced as a WordPress web developer.
 - 🚀 Led the Web App Club, organizing a successful web hackathon for 100+ participants.
 - 💡 I'm eager to learn about clean code, accesibility, user-centric design, and innovative solutions.
