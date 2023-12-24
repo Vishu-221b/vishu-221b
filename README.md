@@ -21,6 +21,7 @@
 
 #### Frontend Projects :
 * [MY PORTFOLIO](https://vishucodes.live/)
+* [CHAT APP (MERN)](https://github.com/Vishu-221b/mern-chat-app)
 * [VIDCONNECT](https://github.com/Vishu-221b/Youtube-Clone)
 * [NOTEFLOW](https://github.com/Vishu-221b/Note-Maker)
 
